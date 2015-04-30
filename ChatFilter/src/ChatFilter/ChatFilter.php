@@ -19,7 +19,7 @@ class ChatFilter extends PluginBase implements Listener{
 				"fuck"
 			),
 			"identify-capital-alphabet" => false,
-			"mosaic" => "*"
+			"mosaic" => "(ㆆ_ㆆ)"
 		)))->getAll();
 		
 		$this->mosaicList = array();
